@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.pem
+*.zip
+
+*.class
+# *.pem
+
+#intellij
+.idea/
+target/
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
