@@ -22,7 +22,7 @@ mvn spring-boot:run
 * Input parameters will be countryName and cityName. 
 * Api key will be sent as a header parameter.
 
-Example request: [http://localhost:8080/weather?countryName=Sri Lanka&cityName=colombo]()
+Example request: [http://localhost:8080/weather?countryName=Sri Lanka&city=colombo]()
 <br /> Header parameter : apiKey = 821ea665e94bc5a0ee2456c41de5f3ea
 
 ## Assumptions
